@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyJuice</string>
+    <string name="no_data">Tidak Ada Data</string>
+    <string name="no_internet">Tidak Ada Koneksi Internet</string>
+    <string name="searchbar_placeholder">Search.....</string>
+</resources>
